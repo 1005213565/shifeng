@@ -26,13 +26,11 @@
 	color: gray;
 }
 .inlineBlock {
-	display: inline-block;
 }
 .inline {
 	display: inline;
 }
 .block {
-	display: block;
 }
 .bigSpacing {
 	margin-top: 10px;
@@ -65,7 +63,6 @@
 font {
 	color: #333333;
 	margin-top: 5px;
-	font-size: 17px;
 }
 li {
 	color: #333333;
@@ -73,4 +70,8 @@ li {
 }
 h4 {
 	margin-left: 40px;
+}
+.jobRow{
+	overflow: hidden;
+	text-align: center;
 }
